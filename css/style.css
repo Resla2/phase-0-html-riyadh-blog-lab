@@ -21,7 +21,8 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(106, 195, 223, 0.85);
+  background: linear-gradient(90deg, rgb(228, 91, 102) 0%, rgb(52, 145, 114) 35%, rgba(4,118,193,1) 70%, rgba(104,189,227,1) 80%, rgb(173, 190, 194) 100%);
 }
 
 h1, h2 {
